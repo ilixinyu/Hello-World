@@ -1,2 +1,2 @@
 # Hello-World
-README,my idea
+Just another repository
